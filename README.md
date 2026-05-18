@@ -18,7 +18,7 @@
 	<tr>
 		<td><b>☁️ Cloud</b></td>
 		<td>
-			<img src="![ROS2](https://img.shields.io/badge/-ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)" alt="ROS2"/>
+			<img src="https://img.shields.io/badge/-ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2"/>
 			<!-- <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/> -->
 		</td>
 	</tr>
