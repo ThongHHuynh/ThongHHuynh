@@ -2,9 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheOneOh1&color=blueviolet&style=flat-square&label=Profile+Views)
 
-**DevOps Engineer · Cloud & Security · Automation**
-
-I love automating old systems, building secure and scalable pipelines, and experimenting with cloud-native solutions. When I'm not tuning infrastructure, I'm probably debugging something obscure or binge-watching anime while pretending everything is fine 😄
+**Robotics Engineer · Automation · Mechanical Design**
 
 - 🔧 Currently working as a **Software Engineer @ ABI LTD**
 - 🌐 Portfolio: [ThongHHuynh.github.io]([https://thonghhuynh.github.io/])
