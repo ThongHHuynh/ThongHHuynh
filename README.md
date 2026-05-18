@@ -16,10 +16,11 @@
 		<th align="left">Technologies</th>
 	</tr>
 	<tr>
-		<td><b>☁️ Cloud</b></td>
+		<td><b>Robotics and Simulations</b></td>
 		<td>
-			<img src="https://img.shields.io/badge/-ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2"/>
-			<!-- <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/> -->
+			<img src="https://img.shields.io/badge/-ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2"/>
+			<img src="https://img.shields.io/badge/-Gazebo-FF6600?style=flat-square&logo=gazebo&logoColor=white" alt="Gazebo"/>
+			<img src="https://img.shields.io/badge/-Omniverse-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Sim"/>
 		</td>
 	</tr>
 	<tr>
