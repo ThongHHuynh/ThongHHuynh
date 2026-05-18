@@ -27,11 +27,9 @@
 		<td><b>📦 Containerization</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-			<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-			<img src="https://img.shields.io/badge/-Docker_Swarm-2593FF?style=flat-square&logo=docker&logoColor=white" alt="Docker Swarm"/>
 		</td>
 	</tr>
-	<tr>
+	<!-- <tr>
 		<td><b>🔁 CI/CD</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
@@ -40,59 +38,21 @@
 			<!-- <img src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
 			<img src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" alt="CircleCI"/> -->
 		</td>
-	</tr>
+	</tr> -->
 	<tr>
-		<td><b>🔧 DevOps Tools</b></td>
+		<td><b>OS & Languages</b></td>
 		<td>
-			<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-			<img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
-		</td>
-	</tr>
-	<tr>
-		<td><b>📊 Observability</b></td>
-		<td>
-			<img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
-			<img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
-			<!-- <img src="https://img.shields.io/badge/-Loki-1F2328?style=flat-square" alt="Loki"/> -->
-			<!-- <img src="https://img.shields.io/badge/-Splunk-191919?style=flat-square" alt="Splunk"/> -->
-			<img src="https://img.shields.io/badge/-New_Relic-008CE6?style=flat-square&logo=new-relic&logoColor=white" alt="New Relic"/>
-			<!-- <img src="https://img.shields.io/badge/-ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white" alt="ELK"/> -->
-		</td>
-	</tr>
-	<tr>
-		<td><b>🔒 Security</b></td>
-		<td>
-			<img src="https://img.shields.io/badge/-SonarQube-4E9F3D?style=flat-square&logo=sonarcloud&logoColor=white" alt="SonarQube"/>
-			<img src="https://img.shields.io/badge/-Snyk-0E1111?style=flat-square&logo=snyk&logoColor=white" alt="Snyk"/>
-			<!-- <img src="https://img.shields.io/badge/-Nessus-CC0000?style=flat-square" alt="Nessus"/>
-			<img src="https://img.shields.io/badge/-BurpSuite-DB6D28?style=flat-square" alt="BurpSuite"/> -->
-			<img src="https://img.shields.io/badge/-Nmap-CE1F1F?style=flat-square" alt="Nmap"/>
-			<!-- <img src="https://img.shields.io/badge/-Metasploit-0F1C2E?style=flat-square" alt="Metasploit"/> -->
-		</td>
-	</tr>
-	<tr>
-		<td><b>🌐 Web & Infra</b></td>
-		<td>
-			<img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
-			<img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
-			<img src="https://img.shields.io/badge/-Apache-F56A00?style=flat-square&logo=apache&logoColor=white" alt="Apache"/>
-			<img src="https://img.shields.io/badge/-IIS-0078D6?style=flat-square&logo=microsoft-iis&logoColor=white" alt="IIS"/>
-		</td>
-	</tr>
-	<tr>
-		<td><b>💻 Languages</b></td>
-		<td>
-			<img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
+			<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+			<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
 			<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-			<!-- <img src="https://img.shields.io/badge/-C-00599C?style=flat-square" alt="C"/>
-			<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/> -->
+			https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black
 		</td>
 	</tr>
 	<tr>
-		<td><b>🗄️ Databases</b></td>
+		<td><b>Mechanical Design</b></td>
 		<td>
-			<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-			<img src="https://img.shields.io/badge/-MS--SQL-007396?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MS-SQL"/>
+			<img src="https://img.shields.io/badge/-SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="SolidWorks"/>
+			<img src="https://img.shields.io/badge/-Fusion%20360-FF6C00?style=flat-square&logo=autodesk&logoColor=white" alt="Fusion 360"/>
 		</td>
 	</tr>
 </table>
