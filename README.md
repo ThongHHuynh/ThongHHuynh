@@ -3,7 +3,7 @@
 **Robotics Engineer · Automation · Mechanical Design**
 
 - 🔧 Currently working as a **Software Engineer @ ABI LTD**
-- 🌐 Portfolio: [ThongHHuynh.github.io]([https://thonghhuynh.github.io/])
+- 🌐 Portfolio: [ThongHHuynh.github.io](https://thonghhuynh.github.io/)
 - ⚡ Fun fact: I usually automate myself into more work
 
 <!-- --- -->
