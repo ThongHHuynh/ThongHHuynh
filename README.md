@@ -1,7 +1,5 @@
 # Hey, I'm Thong Huynh aka Tom 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheOneOh1&color=blueviolet&style=flat-square&label=Profile+Views)
-
 **Robotics Engineer · Automation · Mechanical Design**
 
 - 🔧 Currently working as a **Software Engineer @ ABI LTD**
@@ -20,7 +18,7 @@
 	<tr>
 		<td><b>☁️ Cloud</b></td>
 		<td>
-			<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+			<img src="![ROS2](https://img.shields.io/badge/-ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)" alt="ROS2"/>
 			<!-- <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/> -->
 		</td>
 	</tr>
