@@ -24,7 +24,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td><b>📦 Containerization</b></td>
+		<td><b>Containerization</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 		</td>
@@ -90,5 +90,4 @@
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandkore101)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TheOneOh_1)
 <!--- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/TheOneOh1) --->
